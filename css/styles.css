@@ -805,11 +805,7 @@ transform: translateY(0);
 .checbox-input:checked + .checbox-label .checbox-empty {
     background-color: #404BBF;
     border: none;
-    fill: #fafafa;
-}
-
-.checbox-input:checked + .checbox-empty {
-    fill: #fafafa;
+    fill: #F4F4FD;
 }
 
 .checbox-icon {}
